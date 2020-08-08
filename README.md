@@ -1,0 +1,1 @@
+# golang-sample-for-prometheus-pushgateway
